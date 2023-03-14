@@ -1,6 +1,6 @@
 {
-  "name": "@cucumber/gherkin",
-  "version": "26.0.3",
+  "name": "@proxym-france/cucumber-gherkin",
+  "version": "26.0.5",
   "description": "Gherkin parser",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
@@ -40,7 +40,7 @@
     "typescript": "4.9.5"
   },
   "dependencies": {
-    "@cucumber/messages": "19.1.4 - 21"
+    "@cucumber/messages": "npm:@proxym-france/cucumber-messages@21.0.1"
   },
   "directories": {
     "test": "test"
